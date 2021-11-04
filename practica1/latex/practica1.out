@@ -1,0 +1,23 @@
+\BOOKMARK [1][-]{section.1}{Objetivo}{}% 1
+\BOOKMARK [1][-]{section.2}{Desarrollo}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Ejercicio 1}{section.2}% 3
+\BOOKMARK [3][-]{subsubsection.2.1.1}{utilidades.h}{subsection.2.1}% 4
+\BOOKMARK [3][-]{subsubsection.2.1.2}{utilidades.c}{subsection.2.1}% 5
+\BOOKMARK [3][-]{subsubsection.2.1.3}{ordenamientos.h}{subsection.2.1}% 6
+\BOOKMARK [3][-]{subsubsection.2.1.4}{ordenamientos.c}{subsection.2.1}% 7
+\BOOKMARK [2][-]{subsection.2.2}{Ejercicio 2}{section.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Opci\363n 1: Elaborar arreglo}{subsection.2.2}% 9
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Opci\363n 2: Imprimir arreglo}{subsection.2.2}% 10
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Opci\363n 3: Selection Sort}{subsection.2.2}% 11
+\BOOKMARK [3][-]{subsubsection.2.2.4}{Opcion 4: Insertion Sort}{subsection.2.2}% 12
+\BOOKMARK [3][-]{subsubsection.2.2.5}{Opcion 5: Heap Sort}{subsection.2.2}% 13
+\BOOKMARK [3][-]{subsubsection.2.2.6}{Opcion 6: Salir}{subsection.2.2}% 14
+\BOOKMARK [2][-]{subsection.2.3}{Ejercicio 3}{section.2}% 15
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Selection Sort:}{subsection.2.3}% 16
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Insertion Sort:}{subsection.2.3}% 17
+\BOOKMARK [3][-]{subsubsection.2.3.3}{Heap Sort:}{subsection.2.3}% 18
+\BOOKMARK [3][-]{subsubsection.2.3.4}{Capturas de Ejecucion}{subsection.2.3}% 19
+\BOOKMARK [2][-]{subsection.2.4}{Ejercicio 4}{section.2}% 20
+\BOOKMARK [3][-]{subsubsection.2.4.1}{Ejecuci\363n OrdenamientoP1}{subsection.2.4}% 21
+\BOOKMARK [3][-]{subsubsection.2.4.2}{Revisi\363n del C\363digo}{subsection.2.4}% 22
+\BOOKMARK [1][-]{section.3}{Conclusiones}{}% 23
